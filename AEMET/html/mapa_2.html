@@ -1,0 +1,56 @@
+<html>  
+<head>  
+<script type="text/javascript"> 
+function initialize() {
+	//Donde quiero centrar el dato
+	var myLatLng = new google.maps.LatLng(38.273, -0.5397);
+
+    var locations = [['<a href="#">Playa Lisa</a>', 38.1905555556, -0.534722222222], ['<a href="#">Playa Fustera</a>', 38.6647222222, 0.0877777777778], ['<a href="#">Piteras</a>', 38.0261111111, -0.652222222222], ['<a href="#">Pinedo - Arbre Del Gos</a>', 39.3394444444, -0.305277777778], ['<a href="#">Oyambre</a>', 43.3936111111, -4.33194444444], ['<a href="#">Oliva - Aigua Blanca-Pau Pi</a>', 38.93, -0.0902777777778], ['<a href="#">Molins</a>', 38.8580555556, 0.0758333333333], ['<a href="#">Mata 4 Cervera</a>', 38.0261111111, -0.652222222222], ['<a href="#">Meron</a>', 43.3938888889, -4.36666666667], ['<a href="#">Matale\xf1as</a>', 43.4766666667, -3.78333333333], ['<a href="#">Miramar</a>', 38.9786111111, -0.141111111111], ['<a href="#">Mata 3 Dulce</a>', 38.0261111111, -0.652222222222], ['<a href="#">Marines  P14.2</a>', 39.8258333333, -0.109722222222], ['<a href="#">Mata 2 Europeos</a>', 38.0261111111, -0.652222222222], ['<a href="#">Marineta Casiana</a>', 38.8344444444, 0.125833333333], ['<a href="#">Mata 1 Pueblo</a>', 38.0261111111, -0.652222222222], ['<a href="#">Marenys De Rafalcaid</a>', 39.0130555556, -0.155277777778], ['<a href="#">Ma\xf1etes -Tropicana  B75.5</a>', 40.2538888889, 0.287777777778], ['<a href="#">Malvarrosa-Caba\xf1al</a>', 39.4722222222, -0.321944444444], ['<a href="#">Malvarrosa - Malvarrosa</a>', 39.4722222222, -0.321944444444], ['<a href="#">Lua\xf1a</a>', 43.3955555556, -4.21944444444], ['<a href="#">Los Peligros</a>', 43.4677777778, -3.77527777778], ['<a href="#">Los Naufragos</a>', 38.0261111111, -0.652222222222], ['<a href="#">Los Locos I</a>', 43.4361111111, -4.03972222222], ['<a href="#">Los Locos</a>', 38.0261111111, -0.652222222222], ['<a href="#">Loredo Ii</a>', 43.4583333333, -3.7425], ['<a href="#">Loredo I</a>', 43.4583333333, -3.7425], ['<a href="#">Levante</a>', 38.1905555556, -0.534722222222], ['<a href="#">Les Rotes/Trampoli</a>', 38.8344444444, 0.125833333333], ['<a href="#">Les Deveses/Santa Ana</a>', 38.8708333333, -0.00722222222222], ['<a href="#">Les Brises/Les Marines/Blay Beach</a>', 38.7741666667, 0.190833333333], ['<a href="#">Les Bovetes/Les Fonts</a>', 38.8580555556, 0.0758333333333], ['<a href="#">Las Fuentes  B75.1</a>', 40.2538888889, 0.287777777778], ['<a href="#">Langre</a>', 43.4583333333, -3.7425], ['<a href="#">L\xb4Alcudia  P14.1</a>', 39.8258333333, -0.109722222222], ['<a href="#">L\'Ahuir</a>', 39.0130555556, -0.155277777778], ['<a href="#">La Salve 8</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 6</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 5</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 3</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 4</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 2</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Salve 1</a>', 43.4194444444, -3.43666666667], ['<a href="#">La Ribera</a>', 43.4361111111, -4.03972222222], ['<a href="#">La Machina</a>', 43.4408333333, -3.445], ['<a href="#">La Maruca</a>', 43.4766666667, -3.78333333333], ['<a href="#">La Magdalena</a>', 43.4677777778, -3.77527777778], ['<a href="#">La Grava</a>', 38.7741666667, 0.190833333333], ['<a href="#">La Concha Ii</a>', 43.4361111111, -4.03972222222], ['<a href="#">La Concha I</a>', 43.4361111111, -4.03972222222], ['<a href="#">La Concha</a>', 43.4361111111, -4.03972222222], ['<a href="#">La Barraca/Portichol</a>', 38.7305555556, 0.197777777778], ['<a href="#">La Arnia</a>', 43.4491666667, -3.98027777778], ['<a href="#">La Almadrava</a>', 38.8708333333, -0.00722222222222], ['<a href="#">Guardamar</a>', 38.9786111111, -0.141111111111], ['<a href="#">Granadella</a>', 38.7305555556, 0.197777777778], ['<a href="#">Gran Playa</a>', 38.1880555556, -0.596944444444], ['<a href="#">Gandia -  Nord</a>', 39.0130555556, -0.155277777778], ['<a href="#">Galizano</a>', 43.4583333333, -3.7425], ['<a href="#">El Tostadero</a>', 43.3938888889, -4.36666666667], ['<a href="#">El Rosal</a>', 43.3938888889, -4.36666666667], ['<a href="#">El Puntal I</a>', 43.4583333333, -3.7425], ['<a href="#">El Puntal Ii</a>', 43.4583333333, -3.7425], ['<a href="#">El Moro  B75.4</a>', 40.2538888889, 0.287777777778], ['<a href="#">El Bocal</a>', 43.4766666667, -3.78333333333], ['<a href="#">El Cabo</a>', 43.3938888889, -4.36666666667], ['<a href="#">El Arenal</a>', 38.7741666667, 0.190833333333], ['<a href="#">El Cura</a>', 38.0261111111, -0.652222222222], ['<a href="#">Daimus</a>', 38.9786111111, -0.141111111111], ['<a href="#">Juan Aparicio</a>', 38.0261111111, -0.652222222222], ['<a href="#">Covachos</a>', 43.4747222222, -3.89194444444], ['<a href="#">Cuberris</a>', 43.4980555556, -3.61361111111], ['<a href="#">Centro</a>', 38.0752777778, -0.647222222222], ['<a href="#">Casta\xf1eda</a>', 43.4766666667, -3.78333333333], ['<a href="#">Cala Santiago Bernabeu</a>', 38.1905555556, -0.534722222222], ['<a href="#">Bovalar  B14.2</a>', 39.8258333333, -0.109722222222], ['<a href="#">Berria 3</a>', 43.4408333333, -3.445], ['<a href="#">Bikinis</a>', 43.4677777778, -3.77527777778], ['<a href="#">Bellrreguard</a>', 38.9675, -0.130555555556], ['<a href="#">Benissero</a>', 38.7741666667, 0.190833333333], ['<a href="#">Berria 1</a>', 43.4408333333, -3.445], ['<a href="#"> Piquio</a>', 43.4677777778, -3.77527777778], ['<a href="#">Berria 2</a>', 43.4408333333, -3.445], ['<a href="#"> Pinedo -Pinedo</a>', 39.3394444444, -0.305277777778], ['<a href="#">Cargador  B75.2</a>', 40.2538888889, 0.287777777778], ['<a href="#">Canallave</a>', 43.4491666667, -3.98027777778], ['<a href="#">Camello</a>', 43.4766666667, -3.78333333333], ['<a href="#">Calas Del Este</a>', 38.1905555556, -0.534722222222], ['<a href="#">La Salve 7</a>', 38.1905555556, -0.534722222222], ['<a href="#">1\xaa Del Sardinero</a>', 43.4766666667, -3.78333333333], ['<a href="#">Virgen Del Mar</a>', 43.4766666667, -3.78333333333], ['<a href="#">Venecia</a>', 39.0130555556, -0.155277777778], ['<a href="#">Varadero</a>', 38.1905555556, -0.534722222222], ['<a href="#">Valdearenas</a>', 43.4491666667, -3.98027777778], ['<a href="#">Vederna - Gerra</a>', 43.3938888889, -4.36666666667], ['<a href="#">Torrelasal  B52 .1</a>', 40.0930555556, 0.146944444444], ['<a href="#">Tamarit</a>', 38.1880555556, -0.596944444444], ['<a href="#">Tagle</a>', 43.4361111111, -4.03972222222], ['<a href="#">Somocuevas</a>', 43.4491666667, -3.98027777778], ['<a href="#">Somo Iii</a>', 43.4583333333, -3.7425], ['<a href="#">Somo Ii</a>', 43.4583333333, -3.7425], ['<a href="#">Somo I</a>', 43.4583333333, -3.7425], ['<a href="#">San Martin</a>', 43.4408333333, -3.445], ['<a href="#">San Juan De La Canal</a>', 43.4747222222, -3.89194444444], ['<a href="#">Saler - Saler</a>', 39.3394444444, -0.305277777778], ['<a href="#">Saler - Garrofera</a>', 39.3394444444, -0.305277777778], ['<a href="#">Roqueta</a>', 38.0752777778, -0.647222222222], ['<a href="#">Romana  B75.3</a>', 40.2538888889, 0.287777777778], ['<a href="#">Punta Raset</a>', 38.8344444444, 0.125833333333], ['<a href="#">Portio</a>', 43.4491666667, -3.98027777778], ['<a href="#">Aigua Morta I Deveses, Rapdells</a>', 38.9211111111, -0.08]];
+
+    window.map = new google.maps.Map(document.getElementById('map'), {
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        center:myLatLng
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var bounds = new google.maps.LatLngBounds();
+
+    for (i = 0; i < locations.length; i++) {
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng( locations[i][1],locations[i][2]),
+            map: map
+        });
+
+        bounds.extend(marker.position);
+
+        google.maps.event.addListener(marker, 'click', (function (marker, i) {
+            return function () {
+                infowindow.setContent(locations[i][0]);
+                infowindow.open(map, marker);
+            }
+        })(marker, i));
+    }
+
+
+    var listener = google.maps.event.addListener(map, "idle", function () {
+        map.setZoom(10);
+        google.maps.event.removeListener(listener);
+    });
+}
+
+function loadScript() {
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' + 'callback=initialize';
+    document.body.appendChild(script);
+}
+
+window.onload = loadScript;
+</script>  
+</head>  
+<body > 
+  <div id="map" style="width: 800px; height: 200px;"></div>
+</div>  
+</body>  
+</html> 

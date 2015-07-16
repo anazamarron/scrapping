@@ -1,0 +1,319 @@
+"_id","nombre_playa","provincia","id_costa"
+1133,"Cala Taps","Barcelona",
+1132,"Kalima","Barcelona",
+1131,"Aiguablava","Girona",
+1130,"Sa Riera","Girona",
+1129,"Raco","Girona",
+1128,"El Cabo","Cantabria",3908004
+1127,"Meron","Cantabria",3908004
+1126,"La Nova","Girona",
+1125,"La Punta","Girona",
+1124,"Canyelles","Girona",
+1123,"Palangres","Girona",
+1122,"Salatar","Girona",
+1120,"Oyambre","Cantabria",3909101
+1119,"Vederna - Gerra","Cantabria",3908004
+1118,"El Rosal","Cantabria",3908004
+1117,"El Tostadero","Cantabria",3908004
+1114,"Muga","Girona",
+1113,"Rubina","Girona",
+1112,"Pasarela","Girona",
+1111,"Montgó","Girona",
+1110,"Sant Marti","Girona",
+1109,"Riells","Girona",
+1108,"Playa Del Bollullo","Tenerife",
+1107,"Playa Del Ancon","Tenerife",
+1106,"Los Quebrantos","Asturias",
+1105,"Poniente Ii","Murcia",
+1101,"Figueiras En Islas Cies","Pontevedra",
+1099,"Argazada","Pontevedra",
+1095,"Fortiñon","Pontevedra",
+1094,"O Vao","Pontevedra",
+1093,"Rodas En Islas Cies","Pontevedra",
+1092,"Samil","Pontevedra",
+1090,"Sant Feliu","Girona",
+1088,"Almadrava","Girona",
+1076,"La Entrevista","Murcia",
+1075,"La Serena","Murcia",
+1074,"La Rabiosa","Murcia",
+1073,"Las Delicias Ii","Murcia",
+1072,"Bolnuevo-Centro","Murcia",
+1071,"La Reya-La Pava","Murcia",
+1070,"La Reya-Bahia","Murcia",
+1069,"Playa Del Puertito De Guimar","Tenerife",
+1040,"Roca Del Gaià","Tarragona",
+1034,"La Machina","Cantabria",3907902
+1033,"San Martin","Cantabria",3907902
+1032,"Berria 3","Cantabria",3907902
+1031,"Berria 2","Cantabria",3907902
+1023,"Molins","Alicante",306308
+1022,"La Almadrava","Alicante",306301
+1014,"Cuberris","Cantabria",3901102
+997,"Somorrostro","Barcelona",
+996,"Muriola","Bizkaia/Vizcaya",
+992,"Port Pelegrí","Girona",
+985,"Saturraran","Gipuzkoa",
+984,"Puerto","Gipuzkoa",
+982,"Itzurun","Gipuzkoa",
+981,"Santiago","Gipuzkoa",
+980,"Antilla","Gipuzkoa",
+979,"Santa Margarida","Girona",
+973,"Cala Boix","Baleares",
+967,"Tarajal","Ceuta",
+961,"Arenal De Moris","Asturias",
+960,"Espasa","Asturias",
+958,"Punta D'En Guineu","Tarragona",
+956,"La Higuerica","Murcia",
+955,"Matalentisco","Murcia",
+954,"Moreres","Barcelona",
+952,"Les Rotes/Trampoli","Alicante",306310
+944,"Charco Verde","Tenerife",
+942,"Benijo","Tenerife",
+941,"Almaciga","Tenerife",
+940,"Roque De Las Bodegas","Tenerife",
+938,"Pixa-Vaques","Tarragona",
+937,"La Barraca/Portichol","Alicante",308211
+936,"Tamarit","Tarragona",
+929,"Calipso","Murcia",
+927,"Playa Fustera","Alicante",304105
+926,"Llevant","Barcelona",
+919,"Ponent","Barcelona",
+896,"Cala Martina","Baleares",
+882,"Tamarit","Alicante",312108
+878,"La Cicer","Las Palmas",
+877,"Juan Aparicio","Alicante",313302
+861,"Comandància","Tarragona",
+860,"Capellans, Els","Tarragona",
+855,"Calafat","Tarragona",
+849,"Pla De Montgat","Barcelona",
+847,"Arrigorri","Bizkaia/Vizcaya",
+846,"Karraspio","Bizkaia/Vizcaya",
+845,"Isuntza","Bizkaia/Vizcaya",
+844,"Ogella","Bizkaia/Vizcaya",
+843,"Ea","Bizkaia/Vizcaya",
+842,"Laga","Bizkaia/Vizcaya",
+841,"Laida","Bizkaia/Vizcaya",
+840,"San Antonio","Bizkaia/Vizcaya",
+839,"Toña","Bizkaia/Vizcaya",
+838,"Laidatxu","Bizkaia/Vizcaya",
+837,"Aritxatxu","Bizkaia/Vizcaya",
+836,"Bakio","Bizkaia/Vizcaya",
+835,"Armintza","Bizkaia/Vizcaya",
+834,"Astondo","Bizkaia/Vizcaya",
+833,"Gorliz","Bizkaia/Vizcaya",
+832,"Plentzia","Bizkaia/Vizcaya",
+830,"Arrietara-Atxabiribil","Bizkaia/Vizcaya",
+829,"Barinatxe","Bizkaia/Vizcaya",
+828,"Gorrondatxe","Bizkaia/Vizcaya",
+827,"Arrigunaga","Bizkaia/Vizcaya",
+826,"Las Arenas","Bizkaia/Vizcaya",
+824,"La Arena","Bizkaia/Vizcaya",
+822,"Ereaga","Bizkaia/Vizcaya",
+820,"La Concha Ii","Cantabria",3908503
+818,"El Puntal Ii","Cantabria",3906102
+817,"Somo Iii","Cantabria",3906102
+816,"Somo Ii","Cantabria",3906102
+815,"Loredo Ii","Cantabria",3906102
+814,"La Salve 8","Cantabria",3903502
+813,"La Salve 7","Cantabria",3903503
+812,"La Salve 6","Cantabria",3903504
+811,"La Salve 5","Cantabria",3903505
+810,"La Salve 4","Cantabria",3903506
+809,"La Salve 3","Cantabria",3903507
+808,"La Salve 2","Cantabria",3903508
+807,"Zona Bany Fòrum","Barcelona",
+791,"La Cabaña","Murcia",
+790,"Levante","Murcia",
+788,"Torrelasal B 52 .1","Castellon",1208502
+782,"Mata 4 Cervera","Alicante",313302
+781,"Mata 3 Dulce","Alicante",313302
+780,"Mata 2 Europeos","Alicante",313302
+774,"Madrigueres","Tarragona",
+772,"Llarga","Tarragona",
+771,"Costa Daurada","Tarragona",
+770,"Coma-Ruga","Tarragona",
+768,"Pinedo - Arbre Del Gos","Valencia",4625004
+755,"L´Alcudia P 14.1","Castellon",1208201
+754,"Mañetes -Tropicana   B.75.5","Castellon",1200402
+753,"Bovalar   B 14.2","Castellon",1208201
+745,"Las Burras","Las Palmas",
+744,"Meloneras","Las Palmas",
+736,"Cala Llonga","Baleares",
+735,"Santa Eulàlia","Baleares",
+734,"Es Cana","Baleares",
+733,"Cala Llenyà","Baleares",
+732,"Es Figueral","Baleares",
+715,"Calas Del Este","Alicante",312103
+713,"Borizo","Asturias",
+646,"Savinosa","Tarragona",
+645,"Llarga 3","Tarragona",
+632,"Ocata","Barcelona",
+614,"El Hornillo","Murcia",
+612,"El Mojon","Murcia",
+593,"Gaztetape","Gipuzkoa",
+592,"Malkorbe","Gipuzkoa",
+590,"Cala Galdana","Baleares",
+588,"Playa Del Rompido","Huelva",
+587,"La Barrosa - La Loma","Cádiz",
+576,"Saler - Saler","Valencia",4625004
+575,"Malvarrosa-Cabañal","Valencia",4625001
+574,"Miramar","Valencia",4611302
+573,"Bellrreguard","Valencia",4604801
+572,"Guardamar","Valencia",4611302
+571,"Daimus","Valencia",4611302
+570,"L'Ahuir","Valencia",4613102
+569,"Gandia -  Nord","Valencia",4613102
+568,"Venecia","Valencia",4613102
+567,"Marenys De Rafalcaid","Valencia",4613102
+564,"Berria 1","Cantabria",3907902
+558,"Can Repic","Baleares",
+549,"Alamillo","Murcia",
+498,"Callao","Barcelona",
+497,"Sant Simó","Barcelona",
+494,"Les Barques","Barcelona",
+492,"Nova Icària","Barcelona",
+491,"Bogatell","Barcelona",
+490,"Mar Bella","Barcelona",
+489,"Nova Mar Bella","Barcelona",
+482,"Luaña","Cantabria",3900101
+480,"San Marcos","Tenerife",
+478,"Puerto Naos","Tenerife",
+474,"Aigua Morta I Deveses, Rabdells","Valencia",4618103
+472,"Benitez","Ceuta",
+471,"El Puntal I","Cantabria",3906102
+469,"El Bocal","Cantabria",3907506
+454,"Las Fuentes B.75.1","Castellon",1200402
+429,"Grifeu","Girona",
+427,"Riumar","Tarragona",
+426,"L'Arenal","Tarragona",
+425,"Cala Forn","Tarragona",
+424,"Sant Jordi","Tarragona",
+411,"Gran Playa","Alicante",312108
+410,"Varadero","Alicante",312103
+409,"Cala Santiago Bernabeu","Alicante",312103
+408,"Levante","Alicante",312103
+407,"Playa Lisa","Alicante",312103
+395,"L'Alguer","Tarragona",
+374,"La Ribera","Cantabria",3908503
+373,"La Concha I","Cantabria",3908503
+372,"Los Locos I","Cantabria",3908503
+371,"Tagle","Cantabria",3908503
+370,"Galizano","Cantabria",3906102
+369,"Somo I","Cantabria",3906102
+368,"Langre","Cantabria",3906102
+367,"Los Peligros","Cantabria",3907511
+362,"Percheles","Murcia",
+358,"La Grava","Alicante",308204
+357,"Les Brises/Les Marines/Blay Beach","Alicante",308204
+334,"Oliva - Aigua Blanca-Pau Pi","Valencia",4618102
+330,"Loredo I","Cantabria",3906102
+329,"Bikinis","Cantabria",3907511
+328,"La Salve 1","Cantabria",3903507
+321,"Tamariu","Girona",
+319,"Cap Roig","Tarragona",
+317,"El Racó","Tarragona",
+306,"La Pineda (El Pinar De Perruquet)","Tarragona",
+301,"Sant Sebastià","Barcelona",
+300,"Barceloneta Sant Miquel","Barcelona",
+293,"Poniente","Murcia",
+292,"Colonia","Murcia",
+290,"Bolnuevo-Camping","Murcia",
+289,"Nares","Murcia",
+287,"La Carolina","Murcia",
+283,"La Magdalena","Cantabria",3907511
+282,"Camello","Cantabria",3907506
+281,"La Concha","Cantabria",3908503
+280,"1ª Del Sardinero","Cantabria",3907506
+279," Piquio","Cantabria",3907511
+278,"Castañeda","Cantabria",3907506
+268,"Calabardina","Murcia",
+267,"Las Delicias I","Murcia",
+257,"Marines  P 14.2","Castellon",1208201
+249,"Port De Soller","Baleares",
+240,"Cala Nova","Baleares",
+229,"Centro","Alicante",307605
+228,"Roqueta","Alicante",307605
+227,"Calarreona","Murcia",
+221,"Avellanes","Tarragona",
+220,"L'Arrabassada","Tarragona",
+219,"Miracle","Tarragona",
+218,"Llarga 2","Tarragona",
+217,"Llarga 1","Tarragona",
+216,"La Móra","Tarragona",
+212,"Francàs","Tarragona",
+210,"Sant Pol","Girona",
+201,"El Moro B. 75.4","Castellon",1200402
+200,"Romana B.75.3","Castellon",1200402
+199,"Cargador B.75.2","Castellon",1200402
+183,"Port Bo","Girona",
+182,"Canadell","Girona",
+181,"Llafranc","Girona",
+178,"Rastrell","Girona",
+175,"Del Port","Girona",
+174,"San Agustin","Las Palmas",
+173,"Luarca / Salinas","Asturias",
+171,"Barro","Asturias",
+170,"Sablon","Asturias",
+169,"Malvarrosa - Malvarrosa","Valencia",4625001
+168,"Ondarreta","Gipuzkoa",
+166,"Masnou-Alella","Barcelona",
+164,"La Maruca","Cantabria",3907506
+163,"Somocuevas","Cantabria",3905201
+139,"Puerto","Murcia",
+135,"Tres Micos","Barcelona",
+134,"Cadavedo","Asturias",
+133,"Andrin","Asturias",
+131,"Mataleñas","Cantabria",3907506
+128,"Sant Salvador","Tarragona",
+124,"Granadella","Alicante",308211
+122,"Les Deveses/Santa Ana","Alicante",306301
+110,"Benissero","Alicante",308204
+109,"El Arenal","Alicante",308204
+108,"Marineta Casiana","Alicante",306310
+107,"Punta Raset","Alicante",306310
+105,"Les Bovetes/Les Fonts","Alicante",306308
+99,"Piteras","Alicante",313302
+98,"Los Naufragos","Alicante",313302
+97,"El Cura","Alicante",313302
+96,"Los Locos","Alicante",313302
+95,"Mata 1 Pueblo","Alicante",313302
+91,"Montgat-St Joan","Barcelona",
+89,"Varador","Barcelona",
+83,"Playa Del Ingles","Las Palmas",
+82,"Maspalomas-Faro","Las Palmas",
+81,"Cueva","Asturias",
+80,"Otur","Asturias",
+79,"Huelgues","Asturias",
+78,"Xivares/Peña Mª","Asturias",
+77,"Carranques","Asturias",
+76,"Palmera","Asturias",
+73,"Cuevas  Del Mar","Asturias",
+72,"San Antolin","Asturias",
+71,"Torimbia","Asturias",
+70,"Toranda","Asturias",
+67,"Palombina","Asturias",
+65,"Poo","Asturias",
+64,"Toró","Asturias",
+62,"Ballota","Asturias",
+61,"Vidiago","Asturias",
+54,"Zarautz","Gipuzkoa",
+53,"Isla De Santa Clara","Gipuzkoa",
+52,"La Concha","Gipuzkoa",
+51,"Zurriola","Gipuzkoa",
+49,"Hondarribia","Gipuzkoa",
+47,"Gavà","Barcelona",
+43,"Miramar","Ceuta",
+42,"Rivera","Ceuta",
+41,"Chorrillo","Ceuta",
+40,"Saler - Garrofera","Valencia",4625004
+36,"Virgen Del Mar","Cantabria",3907506
+35,"San Juan De La Canal","Cantabria",3907302
+34,"Covachos","Cantabria",3907302
+33,"La Arnia","Cantabria",3905201
+32,"Portio","Cantabria",3905201
+31,"Canallave","Cantabria",3905201
+30,"Valdearenas","Cantabria",3905201
+24," Pinedo -Pinedo","Valencia",4625004
+20,"Las Teresitas","Tenerife",
+19,"Las Canteras","Las Palmas",
+6,"La Barrosa - 2  Pista","Cádiz",

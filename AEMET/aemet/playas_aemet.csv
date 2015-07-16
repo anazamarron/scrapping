@@ -1,0 +1,592 @@
+_id,nombre_localidad,nombre_playa,nombre_provincia
+1500401,Ares,ares,A Coruña
+1500403,Ares,seselle,A Coruña
+1500501,Arteixo,barranan,A Coruña
+1500801,Bergondo,gandario,A Coruña
+1501101,Boiro,barrana,A Coruña
+1501103,Boiro,manons,A Coruña
+1501501,Cabanas,magdalena-cabanas,A Coruña
+1501602,Camariñas,arou,A Coruña
+1501902,Carballo,razo-baldaio,A Coruña
+1590101,Cariño,a-concha-carino,A Coruña
+1502001,Carnota,carnota,A Coruña
+1502202,Cedeira,magdalena,A Coruña
+1502301,Cee,estorde,A Coruña
+1502802,Corcubión,quenxe,A Coruña
+1503005,"Coruña, A",riazor-orzan,A Coruña
+1503401,Dumbría,ezaro,A Coruña
+1503603,Ferrol,doninos,A Coruña
+1503608,Ferrol,san-xurxo,A Coruña
+1503701,Fisterra,langosteira,A Coruña
+1503707,Fisterra,sardineiro,A Coruña
+1504101,"Laracha, A",caion,A Coruña
+1504001,Laxe,laxe,A Coruña
+1504303,Malpica de Bergantiños,barizo,A Coruña
+1504302,Malpica de Bergantiños,maior-malpica,A Coruña
+1504402,Mañón,bares,A Coruña
+1504801,Miño,grande-de-mino,A Coruña
+1504803,Miño,perbes,A Coruña
+1505303,Muros,esteiro,A Coruña
+1505301,Muros,san-francisco,A Coruña
+1505202,Muxía,lago,A Coruña
+1505205,Muxía,lourido,A Coruña
+1505204,Muxía,os-muinos-area-maior,A Coruña
+1505701,Noia,boa-grande,A Coruña
+1505703,Noia,testal,A Coruña
+1505801,Oleiros,bastiagueiro,A Coruña
+1505802,Oleiros,mera,A Coruña
+1505803,Oleiros,santa-cristina,A Coruña
+1506101,Ortigueira,espasante,A Coruña
+1506102,Ortigueira,morouzos,A Coruña
+1506201,Outes,brona,A Coruña
+1506701,"Pobra do Caramiñal, A",areal,A Coruña
+1506702,"Pobra do Caramiñal, A",cabio-lombina,A Coruña
+1506802,Ponteceso,balares,A Coruña
+1506803,Ponteceso,hermida,A Coruña
+1506901,Pontedeume,ber,A Coruña
+1507101,Porto do Son,aguieira,A Coruña
+1507110,Porto do Son,as-furnas,A Coruña
+1507111,Porto do Son,barona,A Coruña
+1507104,Porto do Son,coira,A Coruña
+1507109,Porto do Son,queiruga,A Coruña
+1507202,Rianxo,tanxil,A Coruña
+1507304,Ribeira,coroso,A Coruña
+1507305,Ribeira,corrubedo,A Coruña
+1507302,Ribeira,o-castro-aguino,A Coruña
+1507507,Sada,sada,A Coruña
+1507506,Sada,san-pedro,A Coruña
+1508701,Valdoviño,frouxeira,A Coruña
+0301101,"Alfàs del Pi, l'",raco-de-l-albir,Alacant/Alicante
+0301408,Alicante/Alacant,el-postiguet,Alacant/Alicante
+0301410,Alicante/Alacant,saladar,Alacant/Alicante
+0301401,Alicante/Alacant,sant-joan-san-juan,Alacant/Alicante
+0301809,Altea,cap-blanch,Alacant/Alicante
+0301808,Altea,la-roda,Alacant/Alicante
+0303102,Benidorm,llevant-playa-de-levante,Alacant/Alicante
+0303104,Benidorm,ponent-playa-de-poniente,Alacant/Alicante
+0304105,Benissa,cala-fustera,Alacant/Alicante
+0304709,Calp,arenal-bol,Alacant/Alicante
+0304707,Calp,cantal-roig,Alacant/Alicante
+0304704,Calp,la-fossa,Alacant/Alicante
+0305013,"Campello, el",carrer-la-mar,Alacant/Alicante
+0306308,Dénia,les-boves-les-marines,Alacant/Alicante
+0306301,Dénia,les-devesses,Alacant/Alicante
+0306310,Dénia,marineta-cassiana,Alacant/Alicante
+0306502,Elche/Elx,arenales-del-sol,Alacant/Alicante
+0306505,Elche/Elx,la-marina-les-pesqueres-el-rebollo,Alacant/Alicante
+0306901,Finestrat,finestrat-la-cala,Alacant/Alicante
+0307605,Guardamar del Segura,centro-la-roqueta,Alacant/Alicante
+0308204,Jávea/Xàbia,el-arenal,Alacant/Alicante
+0308211,Jávea/Xàbia,la-granadella,Alacant/Alicante
+0309907,Orihuela,cala-capitan,Alacant/Alicante
+0309908,Orihuela,cala-roig,Alacant/Alicante
+0309911,Orihuela,campoamor-barranco-rubio,Alacant/Alicante
+0390208,Pilar de la Horadada,port-el-puerto,Alacant/Alicante
+0312108,Santa Pola,tamarit,Alacant/Alicante
+0312103,Santa Pola,varador-calas-del-este,Alacant/Alicante
+0312803,Teulada,l-ampolla,Alacant/Alicante
+0313302,Torrevieja,la-mata,Alacant/Alicante
+0313909,"Villajoyosa/Vila Joiosa, la",paradis,Alacant/Alicante
+0400308,Adra,poniente,Almería
+0400309,Adra,san-nicolas,Almería
+0401310,Almería,retamar,Almería
+0401304,Almería,san-miguel-las-conchas-zapillo,Almería
+0401313,Almería,san-miguel-de-cabo-de-gata,Almería
+0402901,Berja,berja-balanegra,Almería
+0403203,Carboneras,el-lancon,Almería
+0403204,Carboneras,los-barquicos-los-cocones,Almería
+0403501,Cuevas del Almanzora,pozo-del-esparto,Almería
+0403510,Cuevas del Almanzora,villaricos,Almería
+0490205,"Ejido, El",almerinar-san-miguel-de-levante,Almería
+0490204,"Ejido, El",almerinar-san-miguel-de-poniente,Almería
+0490201,"Ejido, El",balerma,Almería
+0404901,Garrucha,garrucha,Almería
+0406403,Mojácar,el-descargador,Almería
+0406401,Mojácar,marina-de-la-torre,Almería
+0406601,Níjar,aguamarga,Almería
+0406614,Níjar,san-jose,Almería
+0407506,Pulpí,mar-serena,Almería
+0407904,Roquetas de Mar,la-romanilla,Almería
+0407906,Roquetas de Mar,urbanizacion-roquetas-del-mar,Almería
+0410002,Vera,puerto-del-rey,Almería
+3301303,Caravia,arenal-de-moris,Asturias
+3301403,Carreño,candas-la-palmera,Asturias
+3301406,Carreño,xivares,Asturias
+3301608,Castrillón,salinas-san-juan-el-espartal,Asturias
+3301704,Castropol,penarronda,Asturias
+3301804,Coaña,arnielles,Asturias
+3301903,Colunga,la-isla,Asturias
+3302120,Cudillero,la-concha-de-artedo,Asturias
+3302117,Cudillero,san-pedro-de-bocamar,Asturias
+3302302,"Franco, El",pormenande,Asturias
+3302403,Gijón,san-lorenzo,Asturias
+3302509,Gozón,santa-marina-de-luanco,Asturias
+3303612,Llanes,niembro-toranda,Asturias
+3303618,Llanes,palombina-las-camaras-los-frailes,Asturias
+3303626,Llanes,toro,Asturias
+3303614,Llanes,xiglu-barro-sorraos,Asturias
+3303902,Muros de Nalón,aguilar,Asturias
+3304101,Navia,navia,Asturias
+3305501,Ribadedeva,la-franca,Asturias
+3305602,Ribadesella,santa-marina,Asturias
+3305601,Ribadesella,vega,Asturias
+3306901,Soto del Barco,los-quebrantos,Asturias
+3307007,Tapia de Casariego,anguileiro-la-grande-los-campos,Asturias
+3303402,Valdés,otur,Asturias
+3303407,Valdés,primera-y-segunda-de-luarca,Asturias
+3307606,Villaviciosa,rodiles,Asturias
+0800601,Arenys de Mar,d-arenys,Barcelona
+0801502,Badalona,del-centre,Barcelona
+0801903,Barcelona,del-bogatell,Barcelona
+0801905,Barcelona,la-barceloneta,Barcelona
+0802901,Cabrera de Mar,cabrera,Barcelona
+0803201,Caldes d'Estrac,la-riera-els-tres-micos,Barcelona
+0803501,Calella,gran-garbi,Barcelona
+0804001,Canet de Mar,canet,Barcelona
+0805601,Castelldefels,castelldefels,Barcelona
+0807401,Cubelles,llarga,Barcelona
+0808901,Gavà,gava,Barcelona
+0811002,Malgrat de Mar,malgrat,Barcelona
+0811801,"Masnou, El",ocata,Barcelona
+0812103,Mataró,varador,Barcelona
+0812602,Montgat,montgat,Barcelona
+0816301,Pineda de Mar,pineda-de-mar,Barcelona
+0817203,Premià de Mar,pla-de-l-os,Barcelona
+0819703,Sant Andreu de Llavaneres,sant-andreu-de-llavaneres,Barcelona
+0826101,Santa Susanna,santa-susanna,Barcelona
+0823504,Sant Pol de Mar,sant-pol,Barcelona
+0826401,Sant Vicenç de Montalt,sant-vicenc-de-montalt,Barcelona
+0827009,Sitges,l-estanyol,Barcelona
+0830702,Vilanova i la Geltrú,ribes-roges,Barcelona
+4801401,Barrika,muriola-la-cantera,Bizkaia
+4802802,Ea,ea,Bizkaia
+4804401,Getxo,azkorri-gorrondatxe,Bizkaia
+4804402,Getxo,barinatxe-salvaje,Bizkaia
+4804301,Gorliz,gorlitz-gorliz,Bizkaia
+4804802,Ibarrangelu,laga,Bizkaia
+4804801,Ibarrangelu,laida,Bizkaia
+4804901,Ispaster,ogeia-ispaster,Bizkaia
+4805701,Lekeitio,isuntza,Bizkaia
+4805601,Lemoiz,armintxekoalde,Bizkaia
+4806302,Mendexa,karraspio,Bizkaia
+4806801,Mundaka,laidatxu,Bizkaia
+4807101,Muskiz,muskiz-la-arena,Bizkaia
+4807301,Ondarroa,arrigorri,Bizkaia
+4807701,Plentzia,plentzia-plencia,Bizkaia
+4808502,Sopelana,atxabiribil-arrietara,Bizkaia
+4807603,Sukarrieta,san-antonio-de-abina,Bizkaia
+4807602,Sukarrieta,tona,Bizkaia
+1100401,Algeciras,el-rinconcillo,Cádiz
+1100402,Algeciras,getares-san-garcia,Cádiz
+1100702,Barbate,canos-de-meca,Cádiz
+1100703,Barbate,el-carmen,Cádiz
+1100706,Barbate,zahara-de-los-atunes,Cádiz
+1100801,"Barrios, Los",palmones,Cádiz
+1101201,Cádiz,la-caleta,Cádiz
+1101203,Cádiz,la-victoria,Cádiz
+1101503,Chiclana de la Frontera,la-barrosa,Cádiz
+1101602,Chipiona,cruz-del-mar,Cádiz
+1101604,Chipiona,regla,Cádiz
+1101406,Conil de la Frontera,la-fontanilla,Cádiz
+1101401,Conil de la Frontera,roche,Cádiz
+1102205,"Línea de la Concepción, La",levante-la-atunara,Cádiz
+1102207,"Línea de la Concepción, La",poniente,Cádiz
+1102701,"Puerto de Santa María, El",fuentebravia-santa-catalina,Cádiz
+1102704,"Puerto de Santa María, El",la-puntilla,Cádiz
+1102705,"Puerto de Santa María, El",valdelagrana,Cádiz
+1103006,Rota,el-rompidillo-el-chorrillo,Cádiz
+1103001,Rota,la-ballena,Cádiz
+1103005,Rota,la-costilla,Cádiz
+1103003,Rota,punta-candor,Cádiz
+1103101,San Fernando,camposoto-el-castillo,Cádiz
+1103203,Sanlúcar de Barrameda,la-calzada-piletas,Cádiz
+1103302,San Roque,torreguadiaro,Cádiz
+1103504,Tarifa,bolonia,Cádiz
+1103506,Tarifa,los-lances,Cádiz
+1103901,Vejer de la Frontera,el-palmar,Cádiz
+3900101,Alfoz de Lloredo,luana-cobreces,Cantabria
+3900602,Arnuero,la-arena,Cantabria
+3901102,Bareyo,cuberris,Cantabria
+3902002,Castro-Urdiales,orinon,Cantabria
+3902004,Castro-Urdiales,ostende,Cantabria
+3902401,Comillas,comillas,Cantabria
+3903502,Laredo,la-salve,Cantabria
+3904401,Miengo,cuchia-marzan,Cantabria
+3904405,Miengo,mogro-usil,Cantabria
+3904701,Noja,ris,Cantabria
+3905201,Piélagos,valdearenas,Cantabria
+3906102,Ribamontán al Mar,somo-loredo,Cantabria
+3907302,Santa Cruz de Bezana,san-juan-de-la-canal,Cantabria
+3907511,Santander,la-magdalena,Cantabria
+3907506,Santander,sardinero,Cantabria
+3907902,Santoña,san-martin,Cantabria
+3908004,San Vicente de la Barquera,el-sable-de-meron,Cantabria
+3908503,Suances,la-concha,Cantabria
+3909101,Valdáliga,oyambre,Cantabria
+3909504,Val de San Vicente,amio,Cantabria
+1200403,Alcalà de Xivert,el-carregador,Castelló/Castellón
+1200402,Alcalà de Xivert,las-fuentes,Castelló/Castellón
+1200902,Almazora/Almassora,la-torre,Castelló/Castellón
+1201101,Almenara,casa-blanca,Castelló/Castellón
+1202702,Benicarló,el-morrongo,Castelló/Castellón
+1202805,Benicasim/Benicàssim,heliopolis,Castelló/Castellón
+1202802,Benicasim/Benicàssim,l-almadrava,Castelló/Castellón
+1203201,Borriana/Burriana,el-arenal,Castelló/Castellón
+1204003,Castellón de la Plana/Castelló de la Plana,el-pinar,Castelló/Castellón
+1205301,Chilches/Xilxes,las-casas-les-cases,Castelló/Castellón
+1207703,Moncofa,masbo,Castelló/Castellón
+1208201,Nules,nules,Castelló/Castellón
+1208503,Oropesa del Mar/Orpesa,la-concha,Castelló/Castellón
+1208502,Oropesa del Mar/Orpesa,morro-de-gos,Castelló/Castellón
+1208901,Peníscola/Peñíscola,playa-norte,Castelló/Castellón
+1211701,Torreblanca,norte-de-torreblanca,Castelló/Castellón
+1213810,Vinaròs,forti,Castelló/Castellón
+5100104,Ceuta,benitez,Ceuta
+5100108,Ceuta,la-ribera-el-chorrillo,Ceuta
+2002901,Deba,deba-deva,Gipuzkoa
+2006904,Donostia/San Sebastián,la-kontxa-la-concha,Gipuzkoa
+2006905,Donostia/San Sebastián,la-zurriola,Gipuzkoa
+2006902,Donostia/San Sebastián,ondarreta-ondarreta,Gipuzkoa
+2003903,Getaria,gaztetape-gastetape,Gipuzkoa
+2003904,Getaria,malkorbe-marcorbe,Gipuzkoa
+2003602,Hondarribia,hondarribia-fuenterrabia,Gipuzkoa
+2005604,Mutriku,mutriku-motrico,Gipuzkoa
+2005601,Mutriku,saturraran,Gipuzkoa
+2006102,Orio,la-antilla-san-juan,Gipuzkoa
+2007901,Zarautz,zarautz-zarauz,Gipuzkoa
+2008102,Zumaia,itzurun-san-telmo,Gipuzkoa
+2008103,Zumaia,santixo-santiago,Gipuzkoa
+1701303,Begur,sa-riera,Girona
+1702303,Blanes,blanes,Girona
+1702304,Blanes,s-abanell,Girona
+1703209,Cadaqués,gran-de-cadaques,Girona
+1703402,Calonge,torre-valentina-sant-antoni,Girona
+1704702,Castelló d'Empúries,empuriabrava,Girona
+1704805,Castell-Platja d'Aro,platja-d-aro,Girona
+1705402,Colera,en-goixa,Girona
+1706209,"Escala, L'",riells,Girona
+1709203,Llançà,el-port,Girona
+1709509,Lloret de Mar,fenals,Girona
+1709507,Lloret de Mar,lloret,Girona
+1711703,Palafrugell,llafranc,Girona
+1711804,Palamós,de-la-fosca,Girona
+1712401,Pals,pals,Girona
+1713803,Portbou,portbou,Girona
+1714003,"Port de la Selva, El",port-de-la-selva,Girona
+1715203,Roses,de-roses,Girona
+1716002,Sant Feliu de Guíxols,sant-feliu-de-guixols,Girona
+1716001,Sant Feliu de Guíxols,sant-pol,Girona
+1717801,Sant Pere Pescador,sant-pere-pescador,Girona
+1719902,Torroella de Montgrí,l-estartit,Girona
+1720207,Tossa de Mar,gran-de-tossa,Girona
+1800606,Albuñol,la-rabita,Granada
+1801701,Almuñécar,cantarrijan,Granada
+1801703,Almuñécar,la-herradura,Granada
+1801709,Almuñécar,puerta-del-mar-fuentepiedra,Granada
+1801707,Almuñécar,san-cristobal-la-china,Granada
+1801710,Almuñécar,velilla,Granada
+1809302,Gualchos,sotillo-castell-de-ferro,Granada
+1812401,Lújar,cambriles,Granada
+1814008,Motril,calahonda,Granada
+1814002,Motril,pelaillo-poniente,Granada
+1814004,Motril,torrenueva,Granada
+1816201,Polopos,la-mamola,Granada
+1817001,Rubite,el-lance,Granada
+1817304,Salobreña,la-charca-solamar,Granada
+1817704,Sorvilán,melicena,Granada
+2100502,Almonte,matalascanas,Huelva
+2101001,Ayamonte,isla-canela,Huelva
+2102102,Cartaya,el-portil,Huelva
+2104101,Huelva,el-espigon,Huelva
+2104202,Isla Cristina,central,Huelva
+2104203,Isla Cristina,del-hoyo,Huelva
+2104205,Isla Cristina,islantilla,Huelva
+2104402,Lepe,antilla,Huelva
+2105001,Moguer,el-parador,Huelva
+2105501,Palos de la Frontera,de-mazagon,Huelva
+2106002,Punta Umbría,la-bota,Huelva
+2106004,Punta Umbría,punta-umbria,Huelva
+0700201,Alaior,son-bou,Illes Balears
+0700307,Alcúdia,alcudia,Illes Balears
+0700513,Andratx,camp-de-mar,Illes Balears
+0700506,Andratx,sant-elm,Illes Balears
+0701103,Calvià,cala-santa-ponca,Illes Balears
+0701105,Calvià,magalluf,Illes Balears
+0701102,Calvià,palmira,Illes Balears
+0701303,Campos,es-trenc,Illes Balears
+0701403,Capdepera,cala-agulla,Illes Balears
+0701401,Capdepera,cala-mesquida,Illes Balears
+0701406,Capdepera,sa-font-de-sa-cala,Illes Balears
+0701507,Ciutadella de Menorca,cala-blanca,Illes Balears
+0701506,Ciutadella de Menorca,cala-santandria,Illes Balears
+0701509,Ciutadella de Menorca,son-xoriguer,Illes Balears
+0702603,Eivissa,ses-figueretes,Illes Balears
+0702601,Eivissa,talamanca,Illes Balears
+0701906,Escorca,sa-calobra,Illes Balears
+0702201,Felanitx,cala-marcal,Illes Balears
+0702302,Ferreries,cala-galdana,Illes Balears
+0702414,Formentera,cala-saona,Illes Balears
+0702402,Formentera,playa-de-llevant,Illes Balears
+0702413,Formentera,playa-de-migjorn,Illes Balears
+0703307,Manacor,cala-estany,Illes Balears
+0703316,Manacor,es-domingos-gran,Illes Balears
+0703301,Manacor,s-illot-cala-moreira,Illes Balears
+0703211,Maó,cala-mesquida,Illes Balears
+0703209,Maó,es-grau,Illes Balears
+0703710,"Mercadal, Es",arenal-d-en-castell,Illes Balears
+0703706,"Mercadal, Es",tirant,Illes Balears
+0790202,"Migjorn Gran, Es",sant-tomas,Illes Balears
+0703901,Muro,muro,Illes Balears
+0704001,Palma de Mallorca,cala-major,Illes Balears
+0704007,Palma de Mallorca,playa-de-palma,Illes Balears
+0704202,Pollença,cala-barques,Illes Balears
+0704208,Pollença,cala-formentor,Illes Balears
+0704210,Pollença,pollenca-llenaire,Illes Balears
+0705904,"Salines, Ses",colonia-de-sant-jordi-ees-dolc,Illes Balears
+0705418,Santa Eulalia del Río,cala-llonga,Illes Balears
+0705416,Santa Eulalia del Río,santa-eularia,Illes Balears
+0705501,Santa Margalida,c-an-picafort,Illes Balears
+0704605,Sant Antoni de Portmany,cala-grasio,Illes Balears
+0704608,Sant Antoni de Portmany,san-antonio-es-reguero,Illes Balears
+0705706,Santanyí,cala-mondrago,Illes Balears
+0705707,Santanyí,cala-santanyi,Illes Balears
+0705019,Sant Joan de Labritja,cala-san-vicente,Illes Balears
+0705016,Sant Joan de Labritja,portinatx,Illes Balears
+0705005,Sant Joan de Labritja,port-sant-miquel,Illes Balears
+0704806,Sant Josep de sa Talaia,cala-bassa,Illes Balears
+0704821,Sant Josep de sa Talaia,cala-d-hort,Illes Balears
+0704817,Sant Josep de sa Talaia,cala-vedella,Illes Balears
+0704836,Sant Josep de sa Talaia,en-bossa,Illes Balears
+0704834,Sant Josep de sa Talaia,ses-salines-mitjon,Illes Balears
+0705101,Sant Llorenç des Cardassar,cala-millor,Illes Balears
+0705104,Sant Llorenç des Cardassar,sa-coma,Illes Balears
+0705202,Sant Lluís,punta-prima,Illes Balears
+0706101,Sóller,puerto-de-soller,Illes Balears
+0706202,Son Servera,es-ribell,Illes Balears
+3500101,Agaete,las-nieves,Las Palmas
+3500201,Agüimes,arinaga,Las Palmas
+3502001,"Aldea de San Nicolás, La",puerto-la-aldea-y-la-aldea,Las Palmas
+3502002,"Aldea de San Nicolás, La",tasarte,Las Palmas
+3500301,Antigua,caleta-de-fuste,Las Palmas
+3500403,Arrecife,el-reducto,Las Palmas
+3500601,Arucas,el-puertillo,Las Palmas
+3500901,Gáldar,sardina,Las Palmas
+3501017,Haría,la-garita,Las Palmas
+3501101,Ingenio,el-burrero,Las Palmas
+3501202,Mogán,amadores,Las Palmas
+3501201,Mogán,taurito,Las Palmas
+3501301,Moya,charco-de-san-lorenzo,Las Palmas
+3501402,"Oliva, La",corralejo,Las Palmas
+3501403,"Oliva, La",grandes-playas-el-caseron,Las Palmas
+3501401,"Oliva, La",marfolin,Las Palmas
+3501501,Pájara,ajui,Las Palmas
+3501506,Pájara,butihondo-y-el-matorral,Las Palmas
+3501507,Pájara,costa-calma-y-sotavento-de-jandia,Las Palmas
+3501503,Pájara,el-cofete,Las Palmas
+3501504,Pájara,el-puertito,Las Palmas
+3501502,Pájara,la-pared,Las Palmas
+3501505,Pájara,morro-jable,Las Palmas
+3501601,"Palmas de Gran Canaria, Las",las-canteras,Las Palmas
+3501702,Puerto del Rosario,blanca,Las Palmas
+3501701,Puerto del Rosario,el-puertito-los-molinos,Las Palmas
+3501801,San Bartolomé,honda,Las Palmas
+3501902,San Bartolomé de Tirajana,el-ingles,Las Palmas
+3501901,San Bartolomé de Tirajana,maspalomas,Las Palmas
+3501903,San Bartolomé de Tirajana,san-agustin,Las Palmas
+3502201,Santa Lucía de Tirajana,pozo-izquierdo-el-arenal,Las Palmas
+3502301,Santa María de Guía de Gran Canaria,san-felipe,Las Palmas
+3502425,Teguise,las-cucharas,Las Palmas
+3502601,Telde,melenara,Las Palmas
+3502811,Tías,guacimeta,Las Palmas
+3502808,Tías,los-pocillos,Las Palmas
+3502809,Tías,matagorda,Las Palmas
+3502904,Tinajo,ria-de-la-santa,Las Palmas
+3503001,Tuineje,gran-tarajal,Las Palmas
+3503410,Yaiza,playa-blanca,Las Palmas
+2700501,Barreiros,altar-san-cosme,Lugo
+2700503,Barreiros,san-miguel-reinante-area-longa,Lugo
+2700504,Barreiros,valea-benquerencia,Lugo
+2790201,Burela,a-marosa,Lugo
+2701302,Cervo,o-torno,Lugo
+2701901,Foz,a-rapadoira,Lugo
+2701902,Foz,area-longa,Lugo
+2705101,Ribadeo,as-catedrais,Lugo
+2705005,Ribadeo,os-castros,Lugo
+2706401,"Vicedo, O",abrela,Lugo
+2706403,"Vicedo, O",areagrande-san-roman,Lugo
+2706402,"Vicedo, O",area-longa,Lugo
+2706405,"Vicedo, O",xilloi,Lugo
+2706601,Viveiro,area,Lugo
+2706602,Viveiro,covas,Lugo
+2702501,Xove,esteiro,Lugo
+2702503,Xove,lago,Lugo
+2902503,Benalmádena,bil-bil-y-arroyo-de-la-miel,Málaga
+2902514,Benalmádena,carvajal,Málaga
+2904101,Casares,ancha,Málaga
+2905106,Estepona,la-rada,Málaga
+2905402,Fuengirola,los-boliches-las-gaviotas,Málaga
+2906712,Málaga,el-dedo-el-chanquete,Málaga
+2906707,Málaga,la-malagueta,Málaga
+2906801,Manilva,sabinillas,Málaga
+2906921,Marbella,alicate-costa-bella-pinomar,Málaga
+2906912,Marbella,la-bajadilla,Málaga
+2906906,Marbella,rio-verde-puerto-banus,Málaga
+2907002,Mijas,la-butibamba,Málaga
+2907509,Nerja,burriana,Málaga
+2907502,Nerja,torrecilla,Málaga
+2908202,Rincón de la Victoria,rincon-de-la-victoria,Málaga
+2990102,Torremolinos,la-carihuela-el-bajondillo-playamar,Málaga
+2909103,Torrox,ferrara-las-lindes,Málaga
+2909406,Vélez-Málaga,torre-del-mar,Málaga
+5200103,Melilla,el-hipodromo,Melilla
+3000327,Águilas,calabardina,Murcia
+3000301,Águilas,la-carolina,Murcia
+3000312,Águilas,la-colonia,Murcia
+3000315,Águilas,las-delicias,Murcia
+3000314,Águilas,levante,Murcia
+3000313,Águilas,poniente,Murcia
+3090205,"Alcázares, Los",el-espejo,Murcia
+3090206,"Alcázares, Los",manzanares,Murcia
+3090202,"Alcázares, Los",punta-calera,Murcia
+3001655,Cartagena,barco-perdido-galua,Murcia
+3001624,Cartagena,cala-cortina,Murcia
+3001634,Cartagena,de-calblanque,Murcia
+3001619,Cartagena,el-portus,Murcia
+3001610,Cartagena,la-azohia,Murcia
+3001653,Cartagena,las-amoladeras,Murcia
+3001676,Cartagena,los-urrutias,Murcia
+3002414,Lorca,puntas-de-calnegre,Murcia
+3002618,Mazarrón,bolnuevo,Murcia
+3002633,Mazarrón,del-mojon,Murcia
+3002630,Mazarrón,el-alamillo,Murcia
+3002626,Mazarrón,la-isla,Murcia
+3002623,Mazarrón,la-reya,Murcia
+3003531,San Javier,banco-del-tabal,Murcia
+3003503,San Javier,de-colon,Murcia
+3003526,San Javier,el-arenal,Murcia
+3003509,San Javier,mistral,Murcia
+3003606,San Pedro del Pinatar,las-salinas,Murcia
+3003605,San Pedro del Pinatar,la-torre-derribada,Murcia
+3003602,San Pedro del Pinatar,villananitos,Murcia
+3004102,"Unión, La",del-lastre,Murcia
+3600303,Baiona,ladeira-ramallosa,Pontevedra
+3600402,Bueu,area-de-bon,Pontevedra
+3600419,Bueu,melide-ons,Pontevedra
+3600408,Bueu,mourisca,Pontevedra
+3600411,Bueu,portomaior-agrelo,Pontevedra
+3600805,Cangas,area-brava,Pontevedra
+3600806,Cangas,area-grande,Pontevedra
+3600802,Cangas,barra-nerga,Pontevedra
+3600807,Cangas,limens,Pontevedra
+3600803,Cangas,rodeira,Pontevedra
+3600808,Cangas,vilarino-arnelas-hio,Pontevedra
+3602201,"Grove, O",a-lanzada,Pontevedra
+3602202,"Grove, O",area-da-cruz,Pontevedra
+3602208,"Grove, O",area-grande,Pontevedra
+3602209,"Grove, O",mexilloeira,Pontevedra
+3602305,"Guarda, A",camposancos,Pontevedra
+3690102,"Illa de Arousa, A",camaxe,Pontevedra
+3602601,Marín,aguete,Pontevedra
+3602606,Marín,lapaman,Pontevedra
+3602603,Marín,mogor,Pontevedra
+3602902,Moaña,tiran,Pontevedra
+3602903,Moaña,xunqueira-moana,Pontevedra
+3603501,Nigrán,panxon-america,Pontevedra
+3603504,Nigrán,patos,Pontevedra
+3604103,Poio,chancelas,Pontevedra
+3604501,Redondela,cesantes,Pontevedra
+3605102,Sanxenxo,areas,Pontevedra
+3605105,Sanxenxo,canelas,Pontevedra
+3605110,Sanxenxo,maxor,Pontevedra
+3605111,Sanxenxo,montalvo,Pontevedra
+3605103,Sanxenxo,portonovo-baltar,Pontevedra
+3605117,Sanxenxo,silgar,Pontevedra
+3605701,Vigo,a-fonte,Pontevedra
+3605702,Vigo,bao,Pontevedra
+3605711,Vigo,canido,Pontevedra
+3605703,Vigo,rodas-cies,Pontevedra
+3605706,Vigo,samil,Pontevedra
+3606001,Vilagarcía de Arousa,compostela,Pontevedra
+3606102,Vilanova de Arousa,as-sinas,Pontevedra
+3606103,Vilanova de Arousa,o-terron,Pontevedra
+3800112,Adeje,fanabe,Santa Cruz de Tenerife
+3800116,Adeje,las-americas,Santa Cruz de Tenerife
+3800301,Alajeró,santiago,Santa Cruz de Tenerife
+3800504,Arico,poris,Santa Cruz de Tenerife
+3800603,Arona,las-vistas,Santa Cruz de Tenerife
+3800801,Breña Alta,bajamar,Santa Cruz de Tenerife
+3800901,Breña Baja,los-cancajos,Santa Cruz de Tenerife
+3801005,Buenavista del Norte,la-ballenita,Santa Cruz de Tenerife
+3801103,Candelaria,la-hornilla-los-guanches,Santa Cruz de Tenerife
+3801311,Frontera,la-restinga,Santa Cruz de Tenerife
+3801404,Fuencaliente de la Palma,el-faro,Santa Cruz de Tenerife
+3801503,Garachico,caleton-de-garachico,Santa Cruz de Tenerife
+3801705,Granadilla de Abona,el-medano,Santa Cruz de Tenerife
+3801801,"Guancha, La",santo-domingo,Santa Cruz de Tenerife
+3801905,Guía de Isora,san-juan,Santa Cruz de Tenerife
+3802002,Güímar,el-puertito,Santa Cruz de Tenerife
+3802101,Hermigua,hermigua,Santa Cruz de Tenerife
+3802201,Icod de los Vinos,san-marcos,Santa Cruz de Tenerife
+3802403,"Llanos de Aridane, Los",puerto-naos,Santa Cruz de Tenerife
+3802501,"Matanza de Acentejo, La",el-caleton,Santa Cruz de Tenerife
+3802601,"Orotava, La",el-bollullo,Santa Cruz de Tenerife
+3802801,Puerto de la Cruz,jardin,Santa Cruz de Tenerife
+3802804,Puerto de la Cruz,martianez,Santa Cruz de Tenerife
+3800302,Puntallana,nogales,Santa Cruz de Tenerife
+3803101,"Realejos, Los",el-socorro,Santa Cruz de Tenerife
+3803302,San Andrés y Sauces,charco-azul,Santa Cruz de Tenerife
+3802305,San Cristóbal de La Laguna,el-arenisco,Santa Cruz de Tenerife
+3802302,San Cristóbal de La Laguna,san-juan-castillo,Santa Cruz de Tenerife
+3803401,San Juan de la Rambla,las-aguas,Santa Cruz de Tenerife
+3803605,San Sebastián de la Gomera,san-sebastian,Santa Cruz de Tenerife
+3803801,Santa Cruz de Tenerife,la-nea,Santa Cruz de Tenerife
+3803806,Santa Cruz de Tenerife,las-teresitas,Santa Cruz de Tenerife
+3804004,Santiago del Teide,la-arena,Santa Cruz de Tenerife
+3804101,"Sauzal, El",la-garanona,Santa Cruz de Tenerife
+3804203,"Silos, Los",el-gomero,Santa Cruz de Tenerife
+3804302,Tacoronte,la-arena-mesa-del-mar,Santa Cruz de Tenerife
+3804502,Tazacorte,puerto-de-tazacorte,Santa Cruz de Tenerife
+3804902,Valle Gran Rey,valle-gran-rey,Santa Cruz de Tenerife
+3805004,Vallehermoso,vallehermoso,Santa Cruz de Tenerife
+3804803,Valverde,el-tamaduste,Santa Cruz de Tenerife
+4301202,Altafulla,altafulla,Tarragona
+4301313,"Ametlla de Mar, L'",l-alguer,Tarragona
+4390602,"Ampolla, L'",cap-roig,Tarragona
+4390606,"Ampolla, L'",d-avellaners,Tarragona
+4301401,Amposta,els-eucaliptus,Tarragona
+4303703,Calafell,calafell,Tarragona
+4303804,Cambrils,prat-d-en-fores-i-regueral,Tarragona
+4303806,Cambrils,vilafortuny-l-esquirol,Tarragona
+4305001,Creixell,creixell,Tarragona
+4305101,Cunit,cunit,Tarragona
+4390103,Deltebre,riomar,Tarragona
+4309211,Mont-roig del Camp,cristall,Tarragona
+4309201,Mont-roig del Camp,peixerota,Tarragona
+4313105,Roda de Berà,roda-de-bara,Tarragona
+4390502,Salou,llevant,Tarragona
+4313601,Sant Carles de la Ràpita,el-garbi,Tarragona
+4314802,Tarragona,l-arrabassada,Tarragona
+4314808,Tarragona,la-mora,Tarragona
+4315302,Torredembarra,barrio-maritimo-la-paella,Tarragona
+4316203,Vandellòs i l'Hospitalet de l'Infant,l-arenal,Tarragona
+4316303,"Vendrell, El",coma-ruga,Tarragona
+4317101,Vila-seca,la-pineda,Tarragona
+4601301,Alboraya,el-port-saplaya,València/Valencia
+4604801,Bellreguard,bellreguard,València/Valencia
+4608201,Canet d'En Berenguer,raco-de-mar,València/Valencia
+4610502,Cullera,el-dossel,València/Valencia
+4610506,Cullera,el-raco,València/Valencia
+4610507,Cullera,sant-antoni,València/Valencia
+4611302,Daimús,daimus,València/Valencia
+4613102,Gandia,norte-de-gandia,València/Valencia
+4618103,Oliva,l-aigua-blanca,València/Valencia
+4618102,Oliva,pau-pi,València/Valencia
+4619501,Piles,piles,València/Valencia
+4619901,"Pobla de Farnals, la",la-pobla-de-farnals,València/Valencia
+4622001,Sagunto/Sagunt,corint-malvarrosa,València/Valencia
+4622003,Sagunto/Sagunt,port-de-sagunt-sagunt,València/Valencia
+4623505,Sueca,mareny-blau,València/Valencia
+4623801,Tavernes de la Valldigna,tavernes,València/Valencia
+4625004,Valencia,la-devesa,València/Valencia
+4625001,Valencia,playa-de-levante-malvarrosa,València/Valencia
+4614301,Xeraco,xeraco,València/Valencia

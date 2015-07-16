@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-ES" lang="es-ES">
+<head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge" /><title>
+	CNMV - Error 
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="title" content=" CNMV " /><meta name="keywords" content="cnmv, comision,comision nacional del mercado,capital riesgo,entidades emisoras,hechos relevantes,folletos de emision,iic,inversion colectiva,productos financieros,mercado valores,
+        fondos de inversion,servicios de inversion,inversores,bolsa valores,mercados financieros,agencias valores,isin,ISIN,comunicaciones previas, titulizacion, capital riesgo, opas, ancv, xbrl,
+        cotizadas, renta fija, inversores, bolsa, posiciones cortas, short selling, participaciones preferentes, bonos, obligaciones, pagarés, warrants, titulización, sicav, inversión colectiva, eafis, asesores financieros, ley del mercado de valores,opv, ops, salidas a bolsa, emisiones" /><link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/Estructura.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/menuNavegacion.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/EstilosComunes.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/EstilosTablas.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/Forms_2.css" type="text/css" media="screen" /><link rel="stylesheet" href="css/Print.css" type="text/css" media="print" />
+<!--[if IE 6]>
+<link rel="stylesheet" href="css/menuNavegacionIE6.css" type="text/css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="css/menuNavegacionIE7.css" type="text/css" media="screen" />
+<![endif]-->
+</head>
+<body>
+ 
+   <div id="contenedor">
+	<!--CABECERA-->	
+         <div id="NavSuperior">
+            <ul class="con">
+                <li>
+                    <a id="lnkInicio" title="Ir a Inicio" href="home.aspx">Inicio</a></li>
+                <li>
+                    <a id="lnkEnlaces" title="Ir a Enlaces" href="Utilidades/Enlaces.aspx">Enlaces</a></li>
+                <li>
+                    <a id="lnkMapa" title="Ir a Mapa" href="Utilidades/MapaWeb.aspx">Mapa</a></li>
+                <li>
+                    <a id="lnkContacto" title="Ir a Contacto" href="Utilidades/Contacto.aspx">Contacto</a></li>
+                <li id="liRss">
+                   <a id="hlRss" title="Ir a Canal RSS" href="GPage.aspx?id=RSS">Canal RSS</a>
+                </li>
+            </ul>
+        </div>
+
+
+        <div id="CabeceraInferior">
+            <div id="logo">
+                <a id="hlLogo" title="Logo CNMV"><img title="Logo CNMV" alt="Logo CNMV" src="images/cnmv-main-logo.gif" /></a> 
+            </div>
+            <div class="logosSec">
+                <ul class="listalogos">
+                    <li>
+                        <a id="ilnkFinanzas" title="Ir a Finanzas para todos (se abrir&#225; una ventana nueva)" href="http://www.finanzasparatodos.es" target="_blank"><img title="Ir a Finanzas para todos (se abrir&#225; una ventana nueva)" alt="Ir a Finanzas para todos (se abrir&#225; una ventana nueva)" src="images/webfinanciera-f2.gif" /></a></li>
+                </ul>
+            </div>
+        
+
+
+        <div id="TextoCabecera">
+                <ul>
+                    <li class="sedeCabecera">
+      
+                        <a id="lnkOficinaVirtual" title="Ir a Sede electrónica / Registro electrónico" href="HTTPS://SEDE.CNMV.GOB.ES" target="_top"><img alt="Sede electr&#243;nica / Registro electr&#243;nico" src="images/cab_logo_sede_es.gif" /></a></li><li class="advertenciaCabecera">
+                        <a id="lnkAdvertencias" title="Ir a Advertencias al público" href="Advertencias.aspx" target="_top"><img alt="Advertencias al p&#250;blico" src="images/cab_logo_advertencias_es.gif" /></a></li><li class="ancvCabecera">
+                        <a id="lnkAgencia" title="Ir a la Agencia Nacional de Codificación de Valores" href="Menu.aspx?id=7" target="_top"><img alt="Agencia Nacional de Codificaci&#243;n de Valores" src="images/cab_logo_ancv_es.gif" /></a></li><li class="alingDer xblrCabecera">
+                                    <a id="HyperLinkAccesible1" href="xbrl/xbrl.aspx"><img alt="XBRL " src="images/ico-xbrl.gif" /></a></li></ul>
+          </div>
+
+
+
+		      
+	</div>
+		<div id="menu_container" class="img_vacio"></div>
+		    <div id="contenido" class="estirar" >
+                <form name="form1" method="post" action="Error.aspx?aspxerrorpath=%2fPortal%2fcionIAGC.aspx" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5Mzg5NTE0MzFkZBHLDI+ZojtbTDiUOccihWdcoHMu" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FA9CF156" />
+                        <p> No ha sido posible completar su consulta.  Vuelva a intentarlo más tarde.</p>   
+                 </form> 
+        
+             </div>
+
+  	
+      
+</div>
+
+</body>
+</html>
